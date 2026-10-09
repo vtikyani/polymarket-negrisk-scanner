@@ -1,0 +1,9 @@
+{
+  "scan_interval_sec": 120,
+  "gamma_page_size": 100,
+  "gamma_max_pages": 20,
+  "http_timeout_sec": 20,
+  "min_legs": 3,
+  "book_batch_size": 100,
+  "log_all_groups": true
+}
